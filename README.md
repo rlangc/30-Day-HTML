@@ -1,9 +1,8 @@
 # 30 Day HTML Learning Strategy
 
-<H2>Week 1: Familiarization and Finger Exercises</H2>
+<H2>Overview</H2>
 
-Days 1-2: Getting to Know the Piano
-
+Learning HTML coding and design is a great skill for anyone looking to enter the world of web development or design. Here’s a 30-day learning plan designed to help you start from scratch and gradually build your skills. This plan assumes you'll dedicate around 1-2 hours each day to learning and practicing.
 
 Week 1: Introduction to HTML
 
@@ -50,12 +49,12 @@ Week 4: Project Work and Testing Your Skills
     Day 25-27: Continue building on your multi-page website. Add interactive elements.
     Day 28: Cross-browser testing and validation of HTML/CSS.
     Day 29: Debugging HTML/CSS, using tools like Chrome DevTools.
-    Day 30: Final review and deployment: Learn how to publish your website using services like GitHub Pages or Netlify.
+    Day 30: Final review and deployment: Learn how to publish your website using services like GitHub Pages or Netlify
 
 Additional Resources:
 
-    Use online platforms like Codecademy, freeCodeCamp, or Coursera for guided lessons.
-    Practice regularly on platforms like CodePen or GitHub.
-    Join communities and forums, such as Stack Overflow or the subreddit /r/webdev, for support and feedback.
+Use online platforms like Codecademy, freeCodeCamp, or Coursera for guided lessons.
+Practice regularly on platforms like CodePen or GitHub.
+Join communities and forums, such as Stack Overflow or the subreddit /r/webdev, for support and feedback.
 
 By following this plan, you'll build a solid foundation in HTML and CSS, and be well on your way to creating beautiful, functional websites.
