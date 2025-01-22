@@ -58,3 +58,8 @@ Practice regularly on platforms like CodePen or GitHub.
 Join communities and forums, such as Stack Overflow or the subreddit /r/webdev, for support and feedback.
 
 By following this plan, you'll build a solid foundation in HTML and CSS, and be well on your way to creating beautiful, functional websites.
+
+<p align="center">
+  <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
