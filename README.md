@@ -12,9 +12,9 @@ Learning HTML coding and design is a great skill for anyone looking to enter the
 - Day 3: Basic HTML tags
     - Explore basic tags like ```<h1>```, ```<p>```, ```<a>```, and how to structure text
 - Day 4: Lists, Images, and Links
-    - Practice adding images ```(<img>)```, creating lists ```(<ul>```, ```<ol>)```, and linking pages ```(<a href="">)```
+    - Practice adding images ```<img>```, creating lists ```<ul>```, ```<ol>```, and linking pages ```<a href="">```
 - Day 5: Tables and Forms
-    - Learn how to create tables ```(<table>)``` and simple forms ```(<form>)```
+    - Learn how to create tables ```<table>``` and simple forms ```<form>```
 - Day 6: Project: Build a simple personal bio page using what you've learned
 - Day 7: Review and practice
     - Revisit all tags learned and clarify any doubts
